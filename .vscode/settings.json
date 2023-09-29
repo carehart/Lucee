@@ -8,5 +8,8 @@
     "cflint.exclude": [
         "loader/**",
         "temp/**"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "6.0"
     ]
 }
